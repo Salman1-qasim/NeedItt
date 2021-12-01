@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Need</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 10:39:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3fca69b2f80411098625d372799b61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedItt" source="x_715442_needitt">d58c2a5b2f80411098625d372799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedItt">d58c2a5b2f80411098625d372799b6cf</sys_scope>
+        <sys_update_name>sys_app_module_d3fca69b2f80411098625d372799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 10:39:07</sys_updated_on>
+        <timeline_page/>
+        <title>Need</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

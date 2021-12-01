@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedItt">57fc665b2f80411098625d372799b6d4</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_715442_needitt_need</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 10:39:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d3fca69b2f80411098625d372799b621</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedItt" source="x_715442_needitt">d58c2a5b2f80411098625d372799b6cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedItt">d58c2a5b2f80411098625d372799b6cf</sys_scope>
+        <sys_update_name>sys_app_module_d3fca69b2f80411098625d372799b621</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 10:39:07</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedItt">d58c2a5b2f80411098625d372799b6cf</application>
+        <file_path/>
+        <instance_id>2e1ee87ddb37df007e55d5b0cf961951</instance_id>
+        <instance_name>dev69471</instance_name>
+        <name>sys_app_module_d3fca69b2f80411098625d372799b621</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedItt">57fc665b2f80411098625d372799b6d4</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_715442_needitt_need</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-01 10:39:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d3fca69b2f80411098625d372799b621</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="NeedItt" source="x_715442_needitt">d58c2a5b2f80411098625d372799b6cf</sys_package><sys_policy/><sys_scope display_value="NeedItt">d58c2a5b2f80411098625d372799b6cf</sys_scope><sys_update_name>sys_app_module_d3fca69b2f80411098625d372799b621</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-01 10:39:07</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1407562471</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>958c2a5b2f80411098625d372799b6d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 10:39:07</sys_created_on>
+        <sys_id>5ffca69b2f80411098625d372799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d75939b710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 10:39:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>97fca69b32804110d19690c2515fab22</update_guid>
+        <update_guid_history>97fca69b32804110d19690c2515fab22:-1407562471</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">4f5d2e9b2f80411098625d372799b64d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-01 10:40:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>28426f81f12540fe9d59752ac5770b61</sys_id>
+        <sys_metadata>d3fca69b2f80411098625d372799b621</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="NeedItt" source="x_715442_needitt">d58c2a5b2f80411098625d372799b6cf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedItt">d58c2a5b2f80411098625d372799b6cf</sys_scope>
+        <sys_scope_delete display_value="">27f214de3d2340698b15099d390af669</sys_scope_delete>
+        <sys_update_name>sys_app_module_d3fca69b2f80411098625d372799b621</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d3fca69b2f80411098625d372799b621">5ffca69b2f80411098625d372799b622</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-01 10:40:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
